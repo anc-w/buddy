@@ -1,1 +1,232 @@
-
+hello there
+hi
+hey
+howdy
+greetings
+sup
+yo
+hiya
+hello again
+hi again
+hey again
+greetings again
+yo again
+howdy again
+hiya again
+what’s up
+what is up
+good to see you
+nice to see you
+pleasure to meet you
+hello friend
+hey friend
+hi friend
+greetings friend
+yo friend
+howdy friend
+hiya friend
+hello buddy
+hey buddy
+hi buddy
+greetings buddy
+yo buddy
+howdy buddy
+hiya buddy
+hello player
+hey player
+hi player
+greetings player
+yo player
+howdy player
+hiya player
+well hello
+well hi
+well hey
+well howdy
+well greetings
+oh hi
+oh hello
+oh hey
+oh howdy
+oh greetings
+hiya there
+hey there
+hello there again
+hi there again
+greetings there
+yo there
+howdy there
+well hello again
+well hi again
+well hey again
+well howdy again
+well greetings again
+oh hi again
+oh hello again
+oh hey again
+oh howdy again
+oh greetings again
+hiya friend again
+hey friend again
+hello friend again
+hi friend again
+greetings friend again
+yo friend again
+howdy friend again
+hiya buddy again
+hey buddy again
+hello buddy again
+hi buddy again
+greetings buddy again
+yo buddy again
+howdy buddy again
+hiya player again
+hey player again
+hello player again
+hi player again
+greetings player again
+yo player again
+howdy player again
+hello there player
+hi there player
+hey there player
+greetings there player
+yo there player
+howdy there player
+hiya there player
+well hello friend
+well hi friend
+well hey friend
+well howdy friend
+well greetings friend
+oh hi buddy
+oh hello buddy
+oh hey buddy
+oh howdy buddy
+oh greetings buddy
+hello hi
+hi hello
+hey hello
+greetings hi
+yo hi
+howdy hi
+hiya hi
+hello hey
+hi hey
+hey hi
+greetings hey
+yo hey
+howdy hey
+hiya hey
+hello greetings
+hi greetings
+hey greetings
+greetings hello
+yo greetings
+howdy greetings
+hiya greetings
+hello yo
+hi yo
+hey yo
+greetings yo
+yo hello
+howdy yo
+hiya yo
+hello howdy
+hi howdy
+hey howdy
+greetings howdy
+yo howdy
+howdy hello
+hiya howdy
+hello hiya
+hi hiya
+hey hiya
+greetings hiya
+yo hiya
+howdy hiya
+hiya hello
+hiya hi
+hiya hey
+hiya greetings
+hiya yo
+hiya howdy
+hello friend buddy
+hi friend buddy
+hey friend buddy
+greetings friend buddy
+yo friend buddy
+howdy friend buddy
+hiya friend buddy
+hello there buddy
+hi there buddy
+hey there buddy
+greetings there buddy
+yo there buddy
+howdy there buddy
+hiya there buddy
+well hello buddy
+well hi buddy
+well hey buddy
+well howdy buddy
+well greetings buddy
+oh hi friend
+oh hello friend
+oh hey friend
+oh howdy friend
+oh greetings friend
+hello hi again
+hi hello again
+hey hello again
+greetings hi again
+yo hi again
+howdy hi again
+hiya hi again
+hello hey again
+hi hey again
+hey hi again
+greetings hey again
+yo hey again
+howdy hey again
+hiya hey again
+hello greetings again
+hi greetings again
+hey greetings again
+greetings hello again
+yo greetings again
+howdy greetings again
+hiya greetings again
+hello yo again
+hi yo again
+hey yo again
+greetings yo again
+yo hello again
+howdy yo again
+hiya yo again
+hello howdy again
+hi howdy again
+hey howdy again
+greetings howdy again
+yo howdy again
+howdy hello again
+hiya howdy again
+hello hiya again
+hi hiya again
+hey hiya again
+greetings hiya again
+yo hiya again
+howdy hiya again
+hiya hello again
+hiya hi again
+hiya hey again
+hiya greetings again
+hiya yo again
+hiya howdy again
+buddy detected
+hello human
+hi human
+hey human
+greetings human
+yo human
+howdy human
+hiya human
